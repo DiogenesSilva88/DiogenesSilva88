@@ -1,16 +1,15 @@
-## Hi there 👋
+Olá! Eu sou o Diógenes 👋
+Sobre Mim
+Sou formado em Engenharia da Computação e tenho experiência em Suporte de TI. Atualmente, estou em transição de carreira para a área de desenvolvimento, com foco em C# e .NET. Apaixonado por tecnologia e sempre buscando novos conhecimentos, estou me dedicando ao aprendizado e evolução para me tornar um desenvolvedor júnior em breve.
 
-<!--
-**DiogenesSilva88/DiogenesSilva88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Objetivo
+Estou aprendendo e aprimorando minhas habilidades em C# e .NET para alcançar minha primeira posição como desenvolvedor júnior. Comprometido com o crescimento contínuo, quero colaborar em projetos e contribuir para soluções inovadoras.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Habilidades
+C# (iniciante)
+.NET (iniciante)
+Git (iniciante)
+Entre em Contato
+LinkedIn
+Email: diogenes.silva88@gmail.com
+Fique à vontade para se conectar! 🚀
